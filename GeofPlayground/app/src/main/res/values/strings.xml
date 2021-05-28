@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeofPlayground</string>
+    <string name="textinputMargin">32dp</string>
+</resources>
